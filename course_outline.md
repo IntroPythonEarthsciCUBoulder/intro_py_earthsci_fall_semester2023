@@ -259,6 +259,7 @@ TBA
 
 #### Introduction
 
+- Initial hello, ask them about temperature outside, age of earth, speed of tectonic plate; point out nature as numbers; slide with 3 examples
 - Introduction of instructors, ask students about their motivation to be here, ask about coding experience (5 min)
 - Mini-lecture on computing in geoscience (10 min)
 - Intro to course and syllabus (10)
