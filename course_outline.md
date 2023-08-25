@@ -259,7 +259,9 @@ TBA
 
 #### Introduction
 
-- Introduction and mini-lecture on computing in geoscience (10 min)
+- Initial hello, ask them about temperature outside, age of earth, speed of tectonic plate; point out nature as numbers; slide with 3 examples
+- Introduction of instructors, ask students about their motivation to be here, ask about coding experience (5 min)
+- Mini-lecture on computing in geoscience (10 min)
 - Intro to course and syllabus (10)
 - Intro to notebooks (5)
 - Ex: log on to J-hub; sort out any issues (5)
@@ -304,7 +306,7 @@ TBA
 - Guided exercise: python import statement, and use of math log2 and floor functions (5)
   - Try math.log2(2650)
   - Try math.floor(2650)
-- Wrap up and assignment (5)
+- Wrap up and assignment, point to material on canvas (5)
 
 #### Materials
 
