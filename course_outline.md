@@ -278,6 +278,14 @@ TBA
 - Mini-lecture on geologic time by powers of ten (10)
 - Wrap up and recap (5)
 
+##### Post-class notes
+
+- Timing was almost there: had to skip the very last (LaTeX math) exercise
+- Make sure to use **lab** hub, not one of the others!
+- Students may need to be told they can log onto the OIT computers (many were working on own)
+
+
+
 #### Operators
 
 - Motivating example and mini-lec on planetary temperature; take notes in a markdown cell(s) with latex math in today's notebook. Part 1: energy balance in words and formula for power input rate. (10)
