@@ -347,6 +347,11 @@ TBA
 - Discovering variables in your notebook with %whos.
   - nbex: run %whos in a code cell; make a note to yourself that this is a notebook command not a Python function. (5)
 
+##### Post-class notes
+
+- Timing worked well (including last minute addition of stuff on strings), just missed very last slide
+- Didn't really need to use sticky notes, as the exercises were pretty brief
+- Should however have left time to show them how to download the notebook and turn it in on canvas
 
 #### Variables, part 2
 
