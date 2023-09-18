@@ -132,6 +132,7 @@ There are 3 areas: programming and computing concepts, skills, and scientific co
   - Import modules using the `import <name>`, `from <module> import`, and `import <name> as <shorthand>` syntax patterns
   - Call functions imported from modules using these different methods
   - Use the question mark syntax to get help on a function
+  - Import and use functions from the math module
 - Writing your own functions
   - Describe why functions are useful
   - Define "parameter" and "argument"
@@ -146,7 +147,8 @@ There are 3 areas: programming and computing concepts, skills, and scientific co
 
 #### Science concept goals
 
-TBA
+- Use trig functions to calculate angles and gradients and related quantities
+
 
 ### Flow control
 
@@ -361,6 +363,10 @@ TBA
   - ranges with colon. Ex: epoch[2:7]. epoch[:2]. epoch[7:]. (5)
   - try period = "Cretaceous". Use slicing to print out the phrase 'Creta' means 'chalk'. (5)
 - REST TO BE ADDED... lists, dicts, tuples, sets - consider learning goals of being able to work with list and dict, and being able to describe and recognize a tuple or set
+
+##### Functions 1 post-class notes
+
+*Much* slower than anticipated. Got up to the exercise on calculating slope gradient and angle, but didn't have time to actually have them do it.
 
 
 
