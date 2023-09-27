@@ -14,6 +14,8 @@ There are 3 areas: programming and computing concepts, skills, and scientific co
   - Unix shell navigation
   - Jupyter notebooks
   - Organizing files and folders for projects
+  - (for graduate students: use local tools for python interpreters through f.e. Anaconda/Spyder)
+  - (for graduate students: know how to set up your own project-specific environments in conda)
 3. Python language
   - Operators, variables, and basic data types
   - More complex data types
@@ -131,23 +133,25 @@ There are 3 areas: programming and computing concepts, skills, and scientific co
   - Handle function returns, including multiple returns
   - Import modules using the `import <name>`, `from <module> import`, and `import <name> as <shorthand>` syntax patterns
   - Call functions imported from modules using these different methods
-  - Use the question mark syntax to get help on a function
+  - Use the help and the question mark syntax to get help on a function
   - Import and use functions from the math module
 - Writing your own functions
-  - Describe why functions are useful
+  - Describe why user-defined functions are useful (for repeatability and for readability)
   - Define "parameter" and "argument"
   - Write functions that use required and optional arguments
   - Write functions that return one or more values
   - Explain the difference between argument passing by copy or by reference, and what kinds of variables they apply to
 - Optional
-  - Understand (+ use) what the **kwargs pattern means
-  - Understand (+ use) what the *args pattern means
   - Use recursion
   - Write a docstring to provide help for your function
 
 #### Science concept goals
 
 - Use trig functions to calculate angles and gradients and related quantities
+- Calculate channel slope
+- Define river discharge
+- Explain the concept of streampower
+- Relate streampower and proxies for erosion
 
 
 ### Flow control
@@ -161,7 +165,7 @@ There are 3 areas: programming and computing concepts, skills, and scientific co
     - Use bitwise shift operators `<<, >>`
 - Loops
   - Explain why loops are useful in general
-  - `for` loops
+  - 'for' loops
     - Explain what a `collection` means in the context of looping through items in a collection
     - Describe and use the `range` function (as you would a list)
     - Use a `for` loop:
@@ -174,11 +178,14 @@ There are 3 areas: programming and computing concepts, skills, and scientific co
     - Write a `while` loop
     - The above with an "escape variable" (e.g., `done == True`)
   - Use `break` to get out of a loop (and explain why that's not usually best practice)
+  Optional
+- show time-it to show computational time of different loops
 
 
 #### Science concept goals
-
-TBA
+- Know what is a glacier accumulation and ablation area
+- Define temperature lapse rate
+- Concept of glacier mass balance
 
 ### Tools for scientific computing
 
