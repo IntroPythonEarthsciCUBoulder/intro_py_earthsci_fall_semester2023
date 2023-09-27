@@ -377,6 +377,46 @@ There are 3 areas: programming and computing concepts, skills, and scientific co
 
 
 
+#### Branching
+
+##### Computing goals
+
+- Use if-elif-else to branch code execution
+- Use and, or, not
+
+##### Scientific goals
+
+- Define what a gaging station is
+
+##### Post-class notes
+
+- Seemed to work ok. Got through most of the material (up through the Colorado quadranges exercise but not beyond).
+- Remember to give them time in the beginning to download the notebook and any data files from canvas, and upload onto lab.openearthscape.org, and at the end to save, download, and then turn in their daily notebooks
+
+
+### Scientific Python
+
+#### Introduction to NumPy
+
+##### Computing goals
+
+- Import numpy
+- Create numpy array variables using `array`, `zeros`, `ones`, `arange`, and `linspace`
+- Use slicing to index values in an array
+- Perform operations on arrays
+- Use numpy mathematical functions such as `exp`, `sin`, etc.
+
+##### Scientific goals
+
+- Describe how a glacier's gain or loss of mass varies with altitude and by season
+
+##### Intro NumPy post-class notes
+
+- Remember matplotlib isn't available in the default kernel!
+- Some weird glitches with the server, maybe need more capacity
+- Again too much for the time (given a couple of other things that needed to be addressed); got through basic array indexing and mentioned math functions but didn't do the length-of-day exercise or any of the optional material such as boolean indexing or 2D arrays
+
+
 
 
 
