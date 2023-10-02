@@ -53,6 +53,7 @@ There are 3 areas: programming and computing concepts, skills, and scientific co
 3. Functions
 4. Flow control
 5. Introduction to Python tools for scientific computing
+6. File I/O
 
 
 ...(THE BELOW TO BE DEVELOPED FURTHER)
@@ -257,7 +258,6 @@ There are 3 areas: programming and computing concepts, skills, and scientific co
   - Add columns to a DataFrame
   - Plot data from two columns from a DataFrame
   - Write modified DataFrame contents to a text file
-
 
 
 
