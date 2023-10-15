@@ -54,7 +54,9 @@ There are 3 areas: programming and computing concepts, skills, and scientific co
 4. Flow control
 5. Introduction to Python tools for scientific computing
 6. File I/O
-
+7. Pandas
+8. Geopandas
+9. Working with gridded data
 
 ...(THE BELOW TO BE DEVELOPED FURTHER)
 
@@ -260,6 +262,26 @@ There are 3 areas: programming and computing concepts, skills, and scientific co
   - Write modified DataFrame contents to a text file
 
 
+### Working with gridded data
+
+#### Computing goals
+
+- Gridded data concepts
+  - Identify several examples of different types of gridded data
+  - Explain what projection is, and identify the difference between geographic and UTM coordinate systems
+  - Identify common file types: geotiff, NetCDF, ESRI ASCII
+- General gridded-data skills and methods
+  - Import a geotiff using PIL Image
+  - More generally, read in gridded data files with single or multiple bands
+  - Perform operations on gridded data files such as calculation of slope or NDVI
+  - Use matplotlib's imshow() function to display images
+  - Use mpl quiver() to visualize vector data
+- Digital elevation data
+  - Explain what a digital elevation model is
+  - Identify a few sources of DEMs
+  - Know a couple of online sources for DEMs
+- Remote sensing and photographic images
+  - Define what "band" means in the context of remote sensing images
 
 
 ## Schedule and Lesson Plans
