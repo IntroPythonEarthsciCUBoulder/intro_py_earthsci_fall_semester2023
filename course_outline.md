@@ -438,6 +438,23 @@ There are 3 areas: programming and computing concepts, skills, and scientific co
 - Some weird glitches with the server, maybe need more capacity
 - Again too much for the time (given a couple of other things that needed to be addressed); got through basic array indexing and mentioned math functions but didn't do the length-of-day exercise or any of the optional material such as boolean indexing or 2D arrays
 
+##### Data I/O post-class notes
+
+- Once again, prepared more material than available time to cover
+- Got through most of reading, but didn't cover writing
+- Consider having a slide at/near end listing things that we didn't cover but just to know about, with pointers to URLs to learn more
+
+##### Geopandas post-class notes
+
+- Jo taught this class; the Colorado geologic map lesson seemed very satisfying in the sense of being able to relatively easily make a map
+- Jo discovered some issues that crop up when you try to apply the same workflow to another state, in this case WY, because the map uses different metadata, at least in terms of names
+
+##### Gridded data post-class notes
+
+- Prepared way too much material on DEMs, and not quite enough on photographic/RGB imagery
+- Seemed useful to step through the math and calculations behind the slope calculations, so it's less of a black box
+- Could spend a bit more time on hexadecimal
+- K-means clustering has a stochastic component, so students will all get somewhat different results
 
 
 
