@@ -54,7 +54,9 @@ There are 3 areas: programming and computing concepts, skills, and scientific co
 4. Flow control
 5. Introduction to Python tools for scientific computing
 6. File I/O
-
+7. Pandas
+8. Geopandas
+9. Working with gridded data
 
 ...(THE BELOW TO BE DEVELOPED FURTHER)
 
@@ -260,6 +262,26 @@ There are 3 areas: programming and computing concepts, skills, and scientific co
   - Write modified DataFrame contents to a text file
 
 
+### Working with gridded data
+
+#### Computing goals
+
+- Gridded data concepts
+  - Identify several examples of different types of gridded data
+  - Explain what projection is, and identify the difference between geographic and UTM coordinate systems
+  - Identify common file types: geotiff, NetCDF, ESRI ASCII
+- General gridded-data skills and methods
+  - Import a geotiff using PIL Image
+  - More generally, read in gridded data files with single or multiple bands
+  - Perform operations on gridded data files such as calculation of slope or NDVI
+  - Use matplotlib's imshow() function to display images
+  - Use mpl quiver() to visualize vector data
+- Digital elevation data
+  - Explain what a digital elevation model is
+  - Identify a few sources of DEMs
+  - Know a couple of online sources for DEMs
+- Remote sensing and photographic images
+  - Define what "band" means in the context of remote sensing images
 
 
 ## Schedule and Lesson Plans
@@ -416,6 +438,23 @@ There are 3 areas: programming and computing concepts, skills, and scientific co
 - Some weird glitches with the server, maybe need more capacity
 - Again too much for the time (given a couple of other things that needed to be addressed); got through basic array indexing and mentioned math functions but didn't do the length-of-day exercise or any of the optional material such as boolean indexing or 2D arrays
 
+##### Data I/O post-class notes
+
+- Once again, prepared more material than available time to cover
+- Got through most of reading, but didn't cover writing
+- Consider having a slide at/near end listing things that we didn't cover but just to know about, with pointers to URLs to learn more
+
+##### Geopandas post-class notes
+
+- Jo taught this class; the Colorado geologic map lesson seemed very satisfying in the sense of being able to relatively easily make a map
+- Jo discovered some issues that crop up when you try to apply the same workflow to another state, in this case WY, because the map uses different metadata, at least in terms of names
+
+##### Gridded data post-class notes
+
+- Prepared way too much material on DEMs, and not quite enough on photographic/RGB imagery
+- Seemed useful to step through the math and calculations behind the slope calculations, so it's less of a black box
+- Could spend a bit more time on hexadecimal
+- K-means clustering has a stochastic component, so students will all get somewhat different results
 
 
 
