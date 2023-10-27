@@ -456,6 +456,10 @@ There are 3 areas: programming and computing concepts, skills, and scientific co
 - Could spend a bit more time on hexadecimal
 - K-means clustering has a stochastic component, so students will all get somewhat different results
 
+##### Object-oriented programming post-class notes
+
+- Timing worked pretty well, just wasn't able to do final exercise. Exercise seemed useful and reasonably well timed.
+
 
 
 
