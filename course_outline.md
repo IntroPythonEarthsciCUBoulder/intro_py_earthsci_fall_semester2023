@@ -463,6 +463,8 @@ There are 3 areas: programming and computing concepts, skills, and scientific co
 ##### Numerical modeling post-class notes
 
 - Part 2, overview of models, ODEs and PDEs, finite difference method, programming solutions to forward-difference time-dependent ODEs: only got through the ODEs, not the diffusion stuff. The ODE part seemed to go fine. Showing them the radioactive decay problem and then having them code up the cubesat problem seemed to work well. Questions and uncertainty about time steps, so would be good to have a concrete guidance on time-step size and an exercise to try different sizes and discover instability.
+- Landlab: for the "part 1" exercise, we only had time to do an initial look at Landlab grid objects, and a quick look at the grid sketchbook
+- Landlab part 2: timing worked pretty well. We basically got through the full notebook.
 - 
 
 
